@@ -241,4 +241,4 @@ This repository serves as the official landing page for Microsoft Money. The sof
 **Get the most recent version of Microsoft Money today!**
 
 ---
-**Last updated:** 2026-09-13 17:57:14 UTC
+**Last updated:** 2026-09-13 20:38:23 UTC
